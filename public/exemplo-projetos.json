@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1",
+    "name": "Sistema de Gestão Empresarial",
+    "status": "Em Andamento",
+    "progress": 65,
+    "startDate": "2024-01-15",
+    "endDate": "2024-06-30",
+    "team": ["João Silva", "Maria Santos", "Pedro Costa"],
+    "description": "Desenvolvimento de sistema completo de gestão empresarial com módulos de RH, Financeiro e Vendas"
+  },
+  {
+    "id": "2",
+    "name": "Portal do Cliente",
+    "status": "Atrasado",
+    "progress": 40,
+    "startDate": "2024-02-01",
+    "endDate": "2024-05-15",
+    "team": ["Ana Lima", "Carlos Oliveira"],
+    "description": "Portal web para clientes com área restrita e painel administrativo"
+  },
+  {
+    "id": "3",
+    "name": "App Mobile de Vendas",
+    "status": "Em Andamento",
+    "progress": 80,
+    "startDate": "2024-03-10",
+    "endDate": "2024-07-20",
+    "team": ["Fernanda Souza", "Roberto Alves", "Julia Mendes"],
+    "description": "Aplicativo mobile para equipe de vendas com sincronização em tempo real"
+  },
+  {
+    "id": "4",
+    "name": "Migração para Cloud",
+    "status": "Concluído",
+    "progress": 100,
+    "startDate": "2024-01-01",
+    "endDate": "2024-03-31",
+    "team": ["Lucas Ferreira", "Patricia Rocha"],
+    "description": "Migração completa da infraestrutura para cloud AWS"
+  },
+  {
+    "id": "5",
+    "name": "Dashboard Analytics",
+    "status": "Em Planejamento",
+    "progress": 15,
+    "startDate": "2024-05-01",
+    "endDate": "2024-08-30",
+    "team": ["Marcos Silva", "Camila Santos"],
+    "description": "Dashboard interativo com análises e métricas de negócio em tempo real"
+  }
+]
+
