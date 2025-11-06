@@ -349,7 +349,7 @@ export default function DialogflowMessenger({
           language-code="pt-br"
           max-query-length="-1"
         >
-          <df-messenger-chat chat-title="Agente Hackathon Grupo 2" />
+          <df-messenger-chat chat-title="Faça perguntas sobre os projetos" />
         </df-messenger>
       </div>
     </>
